@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mahaya 👋  
+QA Analyst | Manual & API Testing | Learning Automation
 
-<!--
-**Mahaya07/Mahaya07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 How I Approach API Testing (Beyond Tools)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My approach to API testing focuses on understanding fundamentals before tools.
+I emphasize how systems communicate, validate business logic without UI dependency, and actively test negative and edge-case scenarios.
+This mindset helps me debug issues more effectively and design meaningful API test coverage.
+
+---
+
+## 🔧 Tools I Work With
+- Postman  
+- Manual Testing  
+- API Testing  
+- GitHub  
+- Jira  
+
+---
+
+## 📂 Featured Projects
+- 🔗 Postman API Testing Project  
+  [https://github.com/Mahaya07/postman-api-testing]
