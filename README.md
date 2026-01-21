@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=QA%20Analyst%20|%20Manual%20%26%20API%20Testing&fontSize=30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" />
 </p>
+
+<h2 align="center">
+QA Analyst | Manual & API Testing | AI-Assisted QA
+</h2>
+
 
 # Hi, I'm Mahaya 👋  
 
