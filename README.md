@@ -1,13 +1,17 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=QA%20Analyst%20|%20Manual%20%26%20API%20Testing&fontSize=30" />
+</p>
+
 # Hi, I'm Mahaya 👋  
 
 ### QA Analyst | 5+ Years in Manual & API Testing | AI-Assisted QA Practitioner
 
 I am a Quality Assurance Analyst with over 5 years of hands-on experience in manual testing across web, mobile, and digital platforms.  
-My core strength lies in understanding application behavior, validating business logic, and ensuring quality beyond surface-level testing.
+My core strength lies in understanding application behaviour, validating business logic, and ensuring quality beyond surface-level testing.
 
 In recent years, I have strengthened my API testing skills using Postman and adopted AI-assisted techniques to improve test coverage, edge-case identification, and documentation quality.
 
-I use AI as a **supporting tool**, not a replacement for QA thinking — applying it to enhance test design, analyze API behavior, and refine bug reports while keeping final decisions manual and experience-driven.
+I use AI as a **supporting tool**, not a replacement for QA thinking — applying it to enhance test design, analyze API behaviour, and refine bug reports while keeping final decisions manual and experience-driven.
 
 ---
 
@@ -35,4 +39,15 @@ My experience helps me filter AI suggestions critically, ensuring only realistic
 - Test Case Design & Bug Reporting
 - AI-Assisted QA (Test Design, API Analysis, Documentation)
 - Agile / Scrum | Jira | GitHub
+  
+## 🧰 Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-orange?style=flat&logo=postman" />
+  <img src="https://img.shields.io/badge/Manual%20Testing-blue?style=flat" />
+  <img src="https://img.shields.io/badge/API%20Testing-green?style=flat" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Jira-blue?style=flat&logo=jira" />
+</p>
+
 
