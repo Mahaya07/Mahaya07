@@ -21,7 +21,7 @@ I use AI as a **supporting tool**, not a replacement for QA thinking — applyin
 ---
 ## 🧩 How I Think About API Testing
 
-![API Testing Visual](./API Testing Components.png)
+![API Testing Visual](api-testing-comic.png)
 
 A visual representation of my API testing approach —  
 covering authentication, headers, parameters, responses, and edge cases.
