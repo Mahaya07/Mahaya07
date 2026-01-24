@@ -6,7 +6,7 @@
 QA Analyst | Manual & API Testing | AI-Assisted QA
 </h2>
 
-
+API Testing Components.png
 # Hi, I'm Mahaya 👋  
 
 ### QA Analyst | 5+ Years in Manual & API Testing | AI-Assisted QA Practitioner
@@ -19,6 +19,13 @@ In recent years, I have strengthened my API testing skills using Postman and ado
 I use AI as a **supporting tool**, not a replacement for QA thinking — applying it to enhance test design, analyze API behaviour, and refine bug reports while keeping final decisions manual and experience-driven.
 
 ---
+## 🧩 How I Think About API Testing
+
+![API Testing Visual](./API Testing Components.png)
+
+A visual representation of my API testing approach —  
+covering authentication, headers, parameters, responses, and edge cases.
+
 
 ## 🤖 AI in My QA Workflow (Practical & Responsible)
 
