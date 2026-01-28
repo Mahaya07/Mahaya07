@@ -26,6 +26,15 @@ I use AI as a **supporting tool**, not a replacement for QA thinking — applyin
 A visual representation of my API testing approach —  
 covering authentication, headers, parameters, responses, and edge cases.
 
+## 🔄 How I Understand CI/CD Testing (QA Perspective)
+
+![CI/CD Testing Visual](ci-cd-testing-comic.png)
+
+This visual shows how I see testing in a CI/CD pipeline:
+code changes trigger pipelines, tests run automatically,
+and QA validates quality before release.
+
+
 
 ## 🤖 AI in My QA Workflow (Practical & Responsible)
 
